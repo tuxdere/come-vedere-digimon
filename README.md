@@ -1,47 +1,17 @@
-# PRoJEct-NeGYa
+# COME GUARDARE LA SAGA DIGIMON
 
-黑客风格的个人主页模板。
-
-版本： v1.01
-
-## 特性
-
-1. 狂拽酷炫
-2. Rouge支持代码高亮
-3. MathJax公式
-4. 文章索引
-5. 高度可定制化
-6. 加密内容（也可以把元素id改成密文，元素内容写“无该字段访问权限！”）
-
-## 更新日志
-
-2019.7.17：更新说明文件
-
-2019.6.15：老子就做这一版，凑合能用得了，我可不改了啊！
-
-## 使用方法
-
-* 下载或者fork到自己的github仓库里
-* 修改_config.yml文件
-* （自定义域名）修改CNAME文件
-* 修改pages/index.md文件，自定义主页
-* 删除_posts/文件夹里的文件，添加自己的文章
-* 同步到github远程仓库
-
-## 工程结构
-
-功能和内容隔离TMD！
-
-网站内容：
-* _posts：文章
-* pages：页面
-* assets/img：图
-
-功能样式：
-* _includes：子页面模块
-* _layouts：页面模板（单纯地组合子页面模块）
-* assets/css：样式表文件
-* assets/fonts：字体文件
-* assets/js：脚本文件
-* _config.yml：配置文件
-
+##  Features
+* [**Digimon Adventure Movie**](https://anilist.co/anime/2961/Digimon-Adventure-Movie/)
+* [**Digimon Adventure**](https://anilist.co/anime/552/Digimon-Adventure/)
+* Digimon Adventure: Character Song + Mini Drama 1
+* Digimon Adventure: Character Song + Mini Drama 2
+* Digimon Adventure: Character Song + Mini Drama 3
+* Digimon Adventure: Anode/Cathode Tamer
+[**Digimon: Our War Game**](https://anilist.co/anime/2397/Digimon-Adventure-Bokura-no-War-Game/)
+* Digimon Tag Tamers
+* Digimon D-1 Tamers
+* Digimon Adventure Original Story: 2½ Year Break
+* Digimon Adventure 2015 released CD Drama
+* [**Digimon Adventure 02 (Episodi 1-21)**](https://anilist.co/anime/1313/Digimon-Adventure-02/)
+* [**Digimon Adventure 02: Revenge of Diaboromon**](https://anilist.co/anime/2398/Digimon-Adventure-02-Diablomon-no-Gyakushuu/)
+* [**Digimon Adventure 02 (Episodi 22+)**](https://anilist.co/anime/1313/Digimon-Adventure-02/)
