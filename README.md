@@ -7,7 +7,7 @@
 * Digimon Adventure: Character Song + Mini Drama 2
 * Digimon Adventure: Character Song + Mini Drama 3
 * Digimon Adventure: Anode/Cathode Tamer
-[**Digimon: Our War Game**](https://anilist.co/anime/2397/Digimon-Adventure-Bokura-no-War-Game/)
+* [**Digimon: Our War Game**](https://anilist.co/anime/2397/Digimon-Adventure-Bokura-no-War-Game/)
 * Digimon Tag Tamers
 * Digimon D-1 Tamers
 * Digimon Adventure Original Story: 2½ Year Break
