@@ -1,6 +1,6 @@
 # COME GUARDARE LA SAGA DIGIMON
 
-##  Features
+##  Lista:
 * [**Digimon Adventure Movie**](https://anilist.co/anime/2961/Digimon-Adventure-Movie/)
 * [**Digimon Adventure**](https://anilist.co/anime/552/Digimon-Adventure/)
 * Digimon Adventure: Character Song + Mini Drama 1
