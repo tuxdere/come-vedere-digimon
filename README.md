@@ -13,7 +13,7 @@
 * [**Digimon Adventure tri. 3: Kokuhaku**](https://anilist.co/anime/21596/Digimon-Adventure-tri-3-Kokuhaku/)
 * [**Digimon Adventure tri. 4: Soushitsu**](https://anilist.co/anime/97734/Digimon-Adventure-tri-4-Soushitsu/)
 * [**Digimon Adventure tri. 5: Kyousei**](https://anilist.co/anime/98402/Digimon-Adventure-tri-5-Kyousei/)
-* [**Digimon Adventure tri. 1: Bokura no Mirai**](https://anilist.co/anime/100181/Digimon-Adventure-tri-6-Bokura-no-Mirai/)
+* [**Digimon Adventure tri. 6: Bokura no Mirai**](https://anilist.co/anime/100181/Digimon-Adventure-tri-6-Bokura-no-Mirai/)
 * [**Digimon Tamers (Episode 1-23)**](https://anilist.co/anime/874/Digimon-Tamers/)
 * [**Digimon Tamers: Boukensha-tachi no Tatakai**](https://anilist.co/anime/2398/Digimon-Adventure-02-Diablomon-no-Gyakushuu/)
 * [**Digimon Tamers (24-fine)**](https://anilist.co/anime/874/Digimon-Tamers/)
