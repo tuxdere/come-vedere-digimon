@@ -7,7 +7,7 @@
 * [**Digimon Adventure 02 (Episodi 1-21)**](https://anilist.co/anime/1313/Digimon-Adventure-02/)
 * [**Digimon Adventure 02: Digimon Hurricane Jouriku!!**](https://anilist.co/anime/2962/Digimon-Adventure-02-Digimon-Hurricane-Jouriku--Chouzetsu-Shinka-Ougon-no-Digimental/)
 * [**Digimon Adventure 02 (Episodi 22-fine)**](https://anilist.co/anime/1313/Digimon-Adventure-02/)
-* [**Digimon Adventure 02: Diablomon no Gyakushuu**](
+* [**Digimon Adventure 02: Diablomon no Gyakushuu**](https://anilist.co/anime/2398/Digimon-Adventure-02-Diablomon-no-Gyakushuu/)
 * [**Digimon Adventure tri. 1: Saikai**](https://anilist.co/anime/20802/Digimon-Adventure-tri-1-Saikai/)
 * [**Digimon Adventure tri. 2: Ketsui**](https://anilist.co/anime/21500/Digimon-Adventure-tri-2-Ketsui/)
 * [**Digimon Adventure tri. 3: Kokuhaku**](https://anilist.co/anime/21596/Digimon-Adventure-tri-3-Kokuhaku/)
